@@ -13,7 +13,7 @@
 - `solana-test-validator`
 - `solana logs`
 - `solana confirm [tx signature] --verbose`
-- `anchor test` or `anchor test -e localnet --skip-test-validator`
+- `anchor test` or `anchor test -e localnet --skip-local-validator`
 
 ### Testing on Devnet
 
