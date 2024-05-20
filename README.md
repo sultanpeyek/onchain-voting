@@ -2,7 +2,7 @@
 
 ### Getting Started
 
-- npx create-solana-dapp@latest
+- `npx create-solana-dapp@latest`
 - set project name and basic anchor
 - `cargo build`
 - `pnpm install`
